@@ -70,7 +70,7 @@ Entry-level **Linux and DevOps professional** with hands-on project experience i
 **AWS Intern — Internship Studio** *(Feb 2026 – Aug 2026)*
 - Gained hands-on exposure to AWS cloud services and infrastructure concepts
 - Applied core AWS concepts through practical, task-based learning
-- Certificate No. **ISAWSI2932870**
+- Certificate No. [**ISAWSI2932870**](https://drive.google.com/file/d/1pe4MBltBYwFPyYh5g58qtQOgMlKn6uYf/view?usp=drive_link)
 
 ---
 
@@ -103,8 +103,8 @@ Entry-level **Linux and DevOps professional** with hands-on project experience i
 
 | Certification | Issuer | Certificate ID |
 |---|---|---|
-| Introduction to Linux (LFS101) | The Linux Foundation | LF-cslzf4rw6v |
-| Certified Kubernetes Administrator (CKA) — Course | Udemy | UC-fbd588de-4e94-4abc-94f4-812a9c0325d3 |
+| Introduction to Linux (LFS101) | The Linux Foundation | [LF-cslzf4rw6v](https://drive.google.com/file/d/1aKX0iRCbNF7s5IvN8hWzUWY3wCtqrb4f/view?usp=drive_link) |
+| Certified Kubernetes Administrator (CKA) — Course | Udemy | [UC-fbd588de-4e94-4abc-94f4-812a9c0325d3](https://drive.google.com/file/d/1w17rAEPRijzWJw2Zr5nFGAGbPh3AFvi-/view?usp=drive_link) |
 <!--
 ---
 
