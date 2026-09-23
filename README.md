@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Rohan Waghmare 👋
 
-<!--
-**rohan2800/rohan2800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps Engineer | AWS Cloud | Linux | Docker | Kubernetes
 
-Here are some ideas to get you started:
+Building and automating cloud infrastructure,
+CI/CD pipelines, and containerized applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 B.Tech Computer Science Engineering
+- ☁️ Focused on AWS & Cloud Engineering
+- 🐧 Linux & Bash
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🔧 Jenkins
+- 🏗️ Terraform
+- 🔀 Git & GitHub
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud
+AWS
+
+### DevOps
+Docker • Kubernetes • Jenkins • Terraform
+
+### Operating Systems
+Linux
+
+### Version Control
+Git • GitHub
+
+### Scripting
+Bash
+
+---
+
+## 🚀 Featured Projects
+
+### Fortel — Stock Price Prediction Platform
+
+ML application deployed using:
+
+Python • Flask • Docker • Jenkins • Kubernetes • Trivy
+
+[View Project](...)
+
+### NGINX Zero-Downtime Deployment
+
+Linux-based blue-green deployment system using:
+
+Linux • Bash • NGINX • systemd
+
+[View Project](...)
+
+---
+
+## 📚 DevOps Learning
+
+- Linux
+- Git & GitHub
+- Docker
+- Jenkins
+- Kubernetes
+- Terraform + AWS
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: ...
+GitHub: ...
